@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Header from "./Components/Header";
 import HeroSection from "./Components/HeroSection";
-import Finance from "./Components/FInance";
+import Finance from "./Components/Finance";
 import Articles from "./Components/Articles";
 import Footer from "./Components/Footer";
 
